@@ -1,0 +1,18 @@
+{
+  "1436764588598235290": {
+    "queueChannel": "1437164091818119340",
+    "resultsChannel": "1437164056652943552",
+    "controlChannel": "1438859509744406679",
+    "ticketsCategory": "1438232875702030367",
+    "queueMessageId": "1438866403011854519",
+    "controlMessageId": "1438866402261078026"
+  },
+  "1384476813568249868": {
+    "queueChannel": "1393614287968276500",
+    "resultsChannel": "1393619505975922891",
+    "controlChannel": "1438864785981575345",
+    "ticketsCategory": "1438870970545864774",
+    "queueMessageId": "1438871328139771986",
+    "controlMessageId": "1438871327288328272"
+  }
+}
